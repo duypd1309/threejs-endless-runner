@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>3D Endless Runner</title>
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@v0.165.0/build/three.module.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@v0.165.0/examples/jsm/"
+        }
+      }
+    </script>
+		<script type="text/javascript" src="./lib/dat.gui.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/tween.js/20.0.0/tween.umd.js"></script>
+		<link rel="stylesheet" href="./css/index.css">
+	</head>
+	<body>
+		<div id="score-info">
+			<div id="score-info-wrapper">
+				<img id="ring-img" src="./resources/images/ring.png" alt="Ring">
+				<p id="score"></p>
+			</div>
+		</div>
+		<div id="restart">
+			<p>Restart</p>
+		</div>
+    <div id="webgl"></div>
+		<script type="module" src="/src/main.js"></script>
+	</body>
+</html>

@@ -1,0 +1,11 @@
+Model Information:
+* title:	eggmobile
+* source:	https://sketchfab.com/3d-models/eggmobile-57b995eb32224e6c810b202787a272d4
+* author:	WinderBlitz (https://sketchfab.com/WinderBlitz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "eggmobile" (https://sketchfab.com/3d-models/eggmobile-57b995eb32224e6c810b202787a272d4) by WinderBlitz (https://sketchfab.com/WinderBlitz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

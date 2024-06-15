@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ring
+* source:	https://sketchfab.com/3d-models/ring-92e1a1e47dd64810bc978c2f43edf313
+* author:	jaspermateodev (https://sketchfab.com/jaspermateodev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ring" (https://sketchfab.com/3d-models/ring-92e1a1e47dd64810bc978c2f43edf313) by jaspermateodev (https://sketchfab.com/jaspermateodev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
