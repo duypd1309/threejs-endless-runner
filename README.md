@@ -1,4 +1,6 @@
 # 3D Endless Runner using Three.js
+![Preview](https://files.catbox.moe/lxg3sk.png)
+
 A simple 3D endless runner game using Three.js library.
 
 ## How to run
